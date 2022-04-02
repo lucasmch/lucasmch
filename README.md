@@ -6,10 +6,11 @@
 
 ## Status:
 
-<div align="center">
+<div>
   <a href="https://github.com/lucasmch">
-  <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api?username=lucasmch&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmch&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api?username=lucasmch&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmch&layout=compact&langs_count=5&theme=dracula"/>
+  </a>
 </div>
   
 <br />

@@ -1,4 +1,4 @@
-### Hey, Welcome! 💻
+### Olá, seja bem vindos! 💻
 
 [![Quebrada](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/quebradacity)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielmaachado__/)
@@ -8,8 +8,8 @@
 
 <div>
   <a href="https://github.com/lucasmch">
-    <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api?username=lucasmch&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmch&layout=compact&langs_count=5&theme=dracula"/>
+    <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=lucasmch&hide=contribs,prs&show_icons=true&theme=dark&count_private=true&include_all_commits=true"/>
+    <img height="180em" width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmch&layout=compact&theme=dark&count_private=true"/>
   </a>
 </div>
   

@@ -3,8 +3,8 @@
 ## Olá, seja bem vindo ao meu perfil, sou o Machado e gosto de progamar! 💻
 <div align="center">
   <a href="https://github.com/lucasmch"></a>
-  <img height="180oem" width="49%" src="https://github-readme-stats.vercel.app/api?username=lucasmch&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=contribs,prs" />
-  <img height="180oem" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmch&layout=compact&langs_count=7&theme=dark" />
+  <img height="180oem" width="47%" src="https://github-readme-stats.vercel.app/api?username=lucasmch&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=prs" />
+  <img height="180oem" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmch&layout=compact&langs_count=6&theme=dark" />
 </div>
 <br>
 <br>

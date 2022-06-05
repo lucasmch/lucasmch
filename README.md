@@ -1,6 +1,6 @@
 
 
-## Olá, seja bem vindo ao meu perfil, sou o Machado e gosto de progamar! 💻
+## Olá, seja bem vindo ao meu perfil, sou o Machado e gosto de programar! 💻
 <div align="center">
   <a href="https://github.com/lucasmch"></a>
   <img height="180oem" width="47%" src="https://github-readme-stats.vercel.app/api?username=lucasmch&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=prs" />

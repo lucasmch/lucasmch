@@ -8,13 +8,13 @@ Meu nome é Lucas Machado, tenho 20 anos e sou apaixonado por desenvolvimento em
 Tenho 2 anos de experiência como freelancer, desenvolvi mais de 20 projetos pelos quais fui remunerado, entre sites, automação, chatbots e software. Também tenho um projeto pessoal onde já consegui mais de 100 clientes.
 
 ## :large_blue_diamond: Stacks
-<b>Stacks:</b> Lua, PHP, Javascript e Aprendendo Typescript</br>
+<b>Stacks:</b> Lua, PHP, Javascript e Typescript (Aprendendo)</br>
 <b>Banco de dados:</b> MySQL e NoSql</br>
-<b>Bibliotecas:</b> Express
+<b>Bibliotecas/Tecnologias:</b> Multer e Express
 
 ## :large_blue_diamond: Contato
 <b>E-mail:</b> lucasgms2002@gmail.com </br>
-<b>LinkedIn:</b> [Click here](https://www.linkedin.com/in/lucas-mch/)</br>
+<b>LinkedIn:</b> [Clique aqui](https://www.linkedin.com/in/lucas-mch/)</br>
 <b>Celular e Whatsapp:</b> (24) 98106-1694 </br>
 
 ## :large_blue_diamond: Github

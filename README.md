@@ -1,33 +1,29 @@
+My portfolio:
+Em breve
 
+### :large_blue_diamond: Bem-vindo ao meu GITHUB! :wave:
+Meu nome é Lucas Machado, tenho 20 anos e sou apaixonado por desenvolvimento em geral, estudo programação desde os 15, com foco em desenvolvimento backend no momento.
 
-## Olá, seja bem vindo ao meu perfil, sou o Machado e gosto de programar! 💻
-<div align="center">
-  <a href="https://github.com/lucasmch"></a>
-  <img height="180oem" width="47%" src="https://github-readme-stats.vercel.app/api?username=lucasmch&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=prs" />
-  <img height="180oem" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmch&layout=compact&langs_count=6&theme=dark" />
-</div>
-<br>
-<br>
+## :large_blue_diamond: Experiência
+Tenho 2 anos de experiência como freelancer, desenvolvi mais de 20 projetos pelos quais fui remunerado, entre sites, automação, chatbots e software. Também tenho um projeto pessoal onde já consegui mais de 100 clientes.
 
-## Ferramentas e Frameworks
-<div style="display: inline_block">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Lua" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
-<img align="center" alt="Lua" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-</div>
-<br>
-<br>
+## :large_blue_diamond: Stacks
+<b>Stacks:</b> Lua, PHP, Javascript e Aprendendo Typescript</br>
+<b>Banco de dados:</b> MySQL e NoSql</br>
+<b>Bibliotecas:</b> Express
 
-###### Você pode me encontrar aqui 👇
+## :large_blue_diamond: Contato
+<b>E-mail:</b> lucasgms2002@gmail.com </br>
+<b>LinkedIn:</b> [Click here](https://www.linkedin.com/in/lucas-mch/)</br>
+<b>Celular e Whatsapp:</b> (24) 98106-1694 </br>
 
-<div> 
-  <a href="https://www.youtube.com/c/BraveDzn" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/gabrielmaachado__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/maachado_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:lucasgms2002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucas-mch/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+## :large_blue_diamond: Github
+<diV>
+
+  <div align="center">
+    <a href="#"><img alt="Lucas Machado Github Stats" src="https://github-readme-stats.vercel.app/api?username=lucasmch&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
+    <a href="#"><img alt="Lucas Machado Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmch&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
+    <br/>
+  </div>
+    </br>
+  <diV>

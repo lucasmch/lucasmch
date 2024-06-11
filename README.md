@@ -7,7 +7,7 @@ Meu nome é Lucas Machado, tenho 20 anos e sou apaixonado por desenvolvimento em
 ## :large_blue_diamond: Experiência
 Desenvolvedor Fullstack com experiência em PHP, AngularJS e tecnologias modernas como Node.js, NestJS, Next.js e Tailwind CSS. Tenho habilidades sólidas em desenvolvimento de software, levantamento de requisitos, criação de novas features, suporte técnico e automação de fluxos. Busco sempre atender as necessidades dos clientes e entregar soluções de alta qualidade.
 
-## :large_blue_diamond:
+## :large_blue_diamond: Competências
 <b>Back-End:</b> Node.js, NestJS, MySQL, Prisma, JWT, Websockets.</br>
 <b>Front-End:</b> Next.js, Tailwind CSS, Socket.io.</br>
 <b>DevOps:</b> Docker, CI/CD com GitHub.

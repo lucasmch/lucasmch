@@ -5,12 +5,12 @@ Em breve
 Meu nome é Lucas Machado, tenho 20 anos e sou apaixonado por desenvolvimento em geral, estudo programação desde os 15, com foco em desenvolvimento backend no momento.
 
 ## :large_blue_diamond: Experiência
-Tenho 2 anos de experiência como freelancer, desenvolvi mais de 20 projetos pelos quais fui remunerado, entre sites, automação, chatbots e software. Também tenho um projeto pessoal onde já consegui mais de 100 clientes.
+Desenvolvedor Fullstack com experiência em PHP, AngularJS e tecnologias modernas como Node.js, NestJS, Next.js e Tailwind CSS. Tenho habilidades sólidas em desenvolvimento de software, levantamento de requisitos, criação de novas features, suporte técnico e automação de fluxos. Busco sempre atender as necessidades dos clientes e entregar soluções de alta qualidade.
 
-## :large_blue_diamond: Stacks
-<b>Stacks:</b> Lua, PHP, Javascript e Typescript (Aprendendo)</br>
-<b>Banco de dados:</b> MySQL e NoSql</br>
-<b>Bibliotecas/Tecnologias:</b> Multer e Express
+## :large_blue_diamond:
+<b>Back-End:</b> Node.js, NestJS, MySQL, Prisma, JWT, Websockets.</br>
+<b>Front-End:</b> Next.js, Tailwind CSS, Socket.io.</br>
+<b>DevOps:</b> Docker, CI/CD com GitHub.
 
 ## :large_blue_diamond: Contato
 <b>E-mail:</b> lucasgms2002@gmail.com </br>

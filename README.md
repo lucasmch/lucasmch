@@ -2,7 +2,7 @@ My portfolio:
 Em breve
 
 ### :large_blue_diamond: Bem-vindo ao meu GITHUB! :wave:
-Meu nome é Lucas Machado, tenho 21 anos e sou apaixonado por desenvolvimento em geral, estudo programação desde os 15 anos, começei minha carreira com 18 anos, com foco em desenvolvimento backend no momento.
+Meu nome é Lucas Machado, tenho 23 anos e sou apaixonado por desenvolvimento em geral, estudo programação desde os 15 anos, começei minha carreira com 18 anos, com foco em desenvolvimento backend no momento.
 
 ## :large_blue_diamond: Experiência
 Desenvolvedor Fullstack com experiência em PHP, AngularJS e tecnologias modernas como Node.js, NestJS, Next.js e Tailwind CSS. Tenho habilidades sólidas em desenvolvimento de software, levantamento de requisitos, criação de novas features, suporte técnico e automação de fluxos.
